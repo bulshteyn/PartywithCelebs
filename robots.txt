@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://partywithcelebs.com/sitemap.xml
