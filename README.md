@@ -1,0 +1,2 @@
+# Party With Celebs
+Static Cloudflare Pages starter. Connect this GitHub repository to Cloudflare Pages using Framework preset None, build command blank, output directory / (repository root). Publish articles by adding HTML files under guides/ and linking them from index.html; update sitemap.xml. Configure hello@partywithcelebs.com before public launch. Update privacy notice before adding analytics, newsletters or ads. This repository is a simple static MVP, not a visual CMS. Domain: partywithcelebs.com.
